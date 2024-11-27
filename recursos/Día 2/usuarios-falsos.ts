@@ -1,4 +1,5 @@
- {
+export const USUARIOS_FALSOS = [
+  {
     id: 'u1',
     nombre: 'Antonia Céspedes',
     avatar: 'usuario-1.png',
